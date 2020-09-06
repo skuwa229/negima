@@ -1,0 +1,6 @@
+# action.yml
+name: 'Negima'
+description: 'negima'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
